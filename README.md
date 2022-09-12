@@ -1,5 +1,5 @@
 # Mein erstes Git Reposit
-# HIer
+# Hier sind meine Bash Skripte
 
 - Autor: **kubi**
 - *2022-09-12*
