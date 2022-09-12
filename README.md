@@ -1,3 +1,5 @@
 # Mein erstes Git Reposit
-2022-09-12
+
+- Autor: **kubi**
+- *2022-09-12*
 bah
